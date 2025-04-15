@@ -1,0 +1,12 @@
+[theme]
+base="dark" 
+
+[server]
+headless = true
+enableCORS = false
+
+[client]
+showSidebarNavigation = false
+
+[ui]
+hideTopBar = true
